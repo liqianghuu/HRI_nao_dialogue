@@ -2,7 +2,7 @@
 
 # Naoqi-Restaurant Assisstant
 
-This is a university Project for interacting with NAO socially with python 2.7 library with naoqi. In this project, my main contribution is to design the scenario using state machine diagram and implements the scenario within  main_dialog.py, functions.py and wordslist.py (only part of the codes). In terms of coding, the majority of this project is contributed by @SikaiFeng. 
+This is a university project for interacting with NAO socially with python 2.7 library with naoqi. In this project, my main contribution is to design the scenario using state machine diagram and implements the scenario within  main_dialog.py, functions.py and wordslist.py (only part of the codes). In terms of coding, the majority of this project is contributed by @SikaiFeng. 
 
 ## setting up everything thats needed
 
